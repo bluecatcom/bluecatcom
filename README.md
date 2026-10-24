@@ -1,2 +1,2 @@
 # About Me:
-👨‍💻 Backend Developer.<br>🐘 PHP<br> Python<br>🗄️ Database<br>🐧 NixOS
+👨‍💻 Backend Developer.<br>🐘 PHP<br>🐍 Python<br>🗄️ Database<br>🐧 NixOS
